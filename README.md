@@ -1,2 +1,2 @@
-# $`arc\text{ane}`$
+# *arc*ane
 not a lamp
