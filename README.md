@@ -1,2 +1,2 @@
-# probable-lamp
+# $probable$-lamp
 not a lamp
