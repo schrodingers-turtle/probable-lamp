@@ -1,2 +1,2 @@
-# [❍](#) *arc*ane
+# [❍](javascript:;) *arc*ane
 not a lamp
