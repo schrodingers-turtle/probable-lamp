@@ -1,2 +1,2 @@
-# www.com *arc*ane
+# <❍> *arc*ane
 not a lamp
